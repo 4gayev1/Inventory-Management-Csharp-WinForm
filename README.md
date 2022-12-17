@@ -20,6 +20,8 @@
 
 ![Customer](https://user-images.githubusercontent.com/74317863/208250347-ec01bfae-ea6e-4a85-872e-7e722e1ea89e.png)
 
+To see detailed information about customers double click to customer you want
+
 <br>
 5.Add | Edit | Remove Categories <br>
 
