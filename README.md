@@ -1,3 +1,5 @@
+<b>**To make a change open InventoryMgmtTuto.sln file<b>
+
 <b>Features:</b>
 
 <br>
